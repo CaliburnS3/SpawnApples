@@ -1,0 +1,12 @@
+main: com.gmail.fingrambbg.applesremastered.ApplesRemastered
+name: ApplesRemastered
+version: 1.15
+api-version: 1.15
+author: RoboEx
+description: This bad boi gives you apples
+commands:
+   apples:
+      description: This is an apple command.
+      usage: /<apples> toggle
+      permission: Apples.toggle
+      permission-message: You don't have permission
